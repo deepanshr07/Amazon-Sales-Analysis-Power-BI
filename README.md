@@ -13,8 +13,8 @@ Built an interactive Power BI dashboard analyzing 8k+ Amazon sales records. The 
 # Repository Structure
 - [Dataset.csv](https://github.com/deepanshr07/Amazon-Sales-Analysis-Power-BI/blob/main/Amazon_Combined_Data.xlsx) - cleaned dataset used for analysis.   
 - [Dashboard screenshot](https://github.com/deepanshr07/Amazon-Sales-Analysis-Power-BI/blob/main/AmazonSalesDashboard.jpg) - dashboard screenshots used in README.  
-- `notebooks/` - DAX & Power Query snippets.  
-- `README.md`,`.gitignore`.
+- [DAX](https://github.com/deepanshr07/Amazon-Sales-Analysis-Power-BI/blob/main/Notebook-DAX-measures) - DAX & Power Query snippets.  
+- `README.md`
 
 # Key Features
 - KPIs: Total Revenue, YTD Sales, QTD Sales, Orders Count, AOV (Average Order Value).  
