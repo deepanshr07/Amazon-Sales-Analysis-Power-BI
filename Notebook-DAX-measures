@@ -1,0 +1,22 @@
+# DAX Measures — Amazon Sales Analysis (Power BI)
+
+# Total Sales
+Total Sales = SUM(Sales[Sales Amount])
+
+# Total Orders
+Total Orders = DISTINCTCOUNT(Sales[Order ID])
+
+# Average Order Value (AOV)
+AOV = DIVIDE([Total Sales], [Total Orders])
+
+# YTD Sales
+YTD Sales = TOTALYTD([Total Sales], 'Sales'[Order Date])
+
+# QTD Sales
+QTD Sales = TOTALQTD([Total Sales], 'Sales'[Order Date])
+
+# Monthly Sales
+Monthly Sales = CALCULATE([Total Sales], VALUES('Date'[Month]))
+
+# Previous Year Sales (for YoY comparison)
+Previous Year Sales = CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Sales'[Order Date]))
