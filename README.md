@@ -11,7 +11,7 @@ Link to interactive demo or published Power BI report: [\[Demo Link Here\]](http
 Built an interactive Power BI dashboard analyzing 8k+ Amazon sales records. The dashboard includes YTD & QTD sales, monthly trends, top 5 products, regional sales breakdown, and key KPIs to help stakeholders monitor performance.
 
 # Repository Structure
-- <a href = [data/amazon_sales_8k.csv](https://github.com/deepanshr07/Amazon-Sales-Analysis-Power-BI/blob/main/Amazon_Combined_Data.xlsx) - cleaned dataset used for analysis.  
+- [data/amazon_sales_8k.csv](https://github.com/deepanshr07/Amazon-Sales-Analysis-Power-BI/blob/main/Amazon_Combined_Data.xlsx) - cleaned dataset used for analysis.  
 - `pbix/Amazon_Sales_Analysis.pbix` - Power BI report (available in Releases if large).  
 - `docs/screenshots/` - dashboard screenshots used in README.  
 - `notebooks/` - DAX & Power Query snippets.  
