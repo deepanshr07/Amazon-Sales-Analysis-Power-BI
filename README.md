@@ -14,7 +14,7 @@ Built an interactive Power BI dashboard analyzing 8k+ Amazon sales records. The 
 - [Dataset.csv](https://github.com/deepanshr07/Amazon-Sales-Analysis-Power-BI/blob/main/Amazon_Combined_Data.xlsx) - cleaned dataset used for analysis.   
 - [Dashboard screenshot](https://github.com/deepanshr07/Amazon-Sales-Analysis-Power-BI/blob/main/AmazonSalesDashboard.jpg) - dashboard screenshots used in README.  
 - [DAX](https://github.com/deepanshr07/Amazon-Sales-Analysis-Power-BI/blob/main/Notebook-DAX-measures) - DAX & Power Query snippets.  
-- `README.md`
+- [README.md](https://github.com/deepanshr07/Amazon-Sales-Analysis-Power-BI/blob/main/README.md)
 
 # Key Features
 - KPIs: Total Revenue, YTD Sales, QTD Sales, Orders Count, AOV (Average Order Value).  
@@ -28,7 +28,7 @@ Built an interactive Power BI dashboard analyzing 8k+ Amazon sales records. The 
 3. Refresh data if needed and interact with slicers.
 
 # DAX & Key measures
-See `notebooks/DAX_measures.md` for the exact DAX formulas used (Total Revenue, YTD Sales, QTD Sales, AOV, etc.).
+See [notebooks/DAX_measures.md](https://github.com/deepanshr07/Amazon-Sales-Analysis-Power-BI/blob/main/Notebook-DAX-measures) for the exact DAX formulas used (Total Revenue, YTD Sales, QTD Sales, AOV, etc.).
 
 # Files to download
 If the PBIX file is large, download from Releases: [\[Releases link\]](https://tinyurl.com/amazonanalysisdeepansh)
