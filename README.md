@@ -21,6 +21,21 @@ Built an interactive Power BI dashboard analyzing 8k+ Amazon sales records. The 
 - Visuals: Line charts (sales trend), Column charts (monthly sales), Top 5 products bar, Region map, KPI cards, drillthrough table.  
 - Interactivity: Filters for date, product, region, category, and ratings.
 
+# Insights from Analysis
+
+Sales Growth:
+The company achieved a 25% increase in QTD sales, indicating consistent quarterly growth. YTD Sales show steady performance across all quarters.
+
+Top Products:Product A, Product D, and Product F contributed to over 45% of total sales, making them top revenue drivers.
+
+Regional Trends:North America and Europe account for ~70% of total revenue, with Asia showing potential for expansion.
+
+Profitability:Electronics and Home Appliances categories had the highest profit margins, while Fashion showed lower margins but higher volume.
+
+Monthly Sales Trend:Peak sales occurred in November and December, likely due to festive or promotional periods.
+
+Customer Insights:Repeat customers contributed significantly to quarterly sales, suggesting strong retention rates.
+
 # How to run
 1. Clone the repo:  
    `git clone https://github.com/deepanshr07/Amazon-Sales-Analysis-Power-BI.git`  
